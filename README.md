@@ -1,4 +1,4 @@
-# 💫 About Me:
+✨ Hi, I'm Karan Singh Tanwar!
 Hi there! 👋 I'm a passionate Full-Stack Developer who loves to build dynamic and interactive applications.<br><br>💻 Tech Stack: JavaScript, React.js, GSAP (for animations), HTML, CSS, C, C++ (backend), SQL (database)<br>🔍 Always eager to solve complex problems and improve my coding skills.<br>🌱 Currently learning advanced React, backend development, SQL optimization, and GSAP animations.<br>📌 Looking for opportunities to collaborate on open-source projects, full-stack applications, and interactive web experiences.<br>🎯 Goal: Become a skilled MERN Stack Developer and create visually engaging web apps!<br>📫 Let's connect! Feel free to reach out. 🚀
 
 
